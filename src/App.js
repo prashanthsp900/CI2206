@@ -6,6 +6,7 @@ function App() {
     <div className="App">
     <h1>This is Continuous Integration</h1>
         <h1>Hello World! This is local Repository</h1>
+        <h1> We have corrected the issue and it should work now</h1>
     </div>
   );
 }
